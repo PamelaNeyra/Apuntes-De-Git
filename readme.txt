@@ -1,1 +1,7 @@
 ## Curso :)
+
+
+Flujo de trabajo básico en git
+Editando el readme e.e
+
+Esta ha sido agregado en la zona de preparación :o
