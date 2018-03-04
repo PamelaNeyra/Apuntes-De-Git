@@ -1,5 +1,7 @@
 ## Curso :)
 
+Modificando cualquier parte del archivo 
+
 
 Flujo de trabajo básico en git
 Editando el readme e.e
