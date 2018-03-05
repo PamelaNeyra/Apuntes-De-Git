@@ -1,1 +1,3 @@
 Te muestra todo el historial del proyecto
+
+log modificado para entender el commit --amend
