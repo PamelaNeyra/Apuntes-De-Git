@@ -1,1 +1,4 @@
 git commit --amend
+
+
+..Agregando más información ..
